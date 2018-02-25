@@ -23,4 +23,6 @@ sdk.dir = /Users/josecarvajal/Library/Android/sdk
 
 esta es la dirección de mi SDK. Para ejecutar react-native run-android 
 
+vid ---> https://youtu.be/9FNXxvSlvlA
+
 cheers!
